@@ -1,5 +1,5 @@
 [![Python application test with Github Actions](https://github.com/Diegomanzur10/pytest-tips-tricks/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/Diegomanzur10/pytest-tips-tricks/actions/workflows/testing-ci.yml)
-[![AWS](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYkVMNWNvdVNyaGxQQlRSWTgzL1BTTXJNRXZ6TU1EOHNaMWJVRVBCbElQdnRpVEJyMUZFMEpWSXVDYWxtZDlZaFR3UFNwUTdGcVhIcGFYbUQ1MElIL2xZPSIsIml2UGFyYW1ldGVyU3BlYyI6IllzM0lmeU5nRzgxSEhQTmciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+[![AWS)](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYkVMNWNvdVNyaGxQQlRSWTgzL1BTTXJNRXZ6TU1EOHNaMWJVRVBCbElQdnRpVEJyMUZFMEpWSXVDYWxtZDlZaFR3UFNwUTdGcVhIcGFYbUQ1MElIL2xZPSIsIml2UGFyYW1ldGVyU3BlYyI6IllzM0lmeU5nRzgxSEhQTmciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 # pytest-tips-tricks
 A primer on pytest
