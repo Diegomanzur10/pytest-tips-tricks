@@ -1,11 +1,11 @@
 from hello import more_hello, more_goodbye
 
 
-def test_mor_hello():
+def test_more_hello():
     assert "hi" == more_hello()
 
 
 def test_more_hello2():
-    assert "hi" == more_hello()
+    assert "bye" == more_goodbye()
 
 ## Test of pushing a code
