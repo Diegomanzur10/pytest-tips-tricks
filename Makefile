@@ -9,6 +9,9 @@ test:
 debug:
 	python -m pytest -vv --pdb
 
+onetest:
+	python -m pytest -vv tests/test_greeting.py::test_my_name2
+
 debugthree:
 	python -m pytest -vv --pdb --maxfail=3
 
